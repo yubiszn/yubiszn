@@ -16,10 +16,15 @@ Yubi Movies – A Flutter-powered mobile app using the OMDb API with real-time s
 
 
 🧠 Technical Skills
+
 Languages: Java, JavaScript, Dart, SQL, HTML/CSS
+
 Frameworks/Libraries: React, Node.js, Express.js, Spring Boot, Flutter
+
 Databases: MongoDB, MySQL
+
 Tools: Git, GitHub, Postman, Android Studio, VS Code
+
 Other: JWT, REST APIs, Stripe, Tailwind CSS, MUI, Agile Methodology
 
 Let's connect!
