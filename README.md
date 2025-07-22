@@ -20,7 +20,7 @@ Languages: Java, JavaScript, Dart, SQL, HTML/CSS
  Other: JWT, REST APIs, Stripe, Tailwind CSS, MUI, Agile Methodology
 
 Let's connect!
-<a href="https://github.com/yubisxn" target="_blank">
+<a href="https://github.com/yubiszn" target="_blank">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />
 </a>
 <a href="[https://linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/ayub-ali-973b50206/)" target="_blank">
