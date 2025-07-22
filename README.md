@@ -5,6 +5,7 @@ I’m currently pursuing a B.S. in Computer Science at Franklin University (Expe
 
 During a Software Development Co-op, I contributed to Paradise, a secure full-stack eCommerce website built with the MERN stack that allows users to shop online and includes an admin dashboard for managing products and inventory. I won first place at JPMorgan Chase’s Code For Good Hackathon by developing a full-stack platform for the Lower Manhattan Cultural Council.
 I enjoy working with full-stack technologies such as React, Node.js, Spring Boot, MongoDB, and MySQL, and I'm especially drawn to building high-impact, scalable products that enhance user engagement.
+
 Outside of school and work, I’m passionate about fitness, photography, and filmmaking. I also enjoy exploring new places and expressing myself through visual arts and storytelling
 
 🛠️ Projects I'm proud of:
