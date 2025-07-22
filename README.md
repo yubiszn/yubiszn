@@ -23,11 +23,9 @@ Let's connect!
 <a href="https://github.com/yubisxn" target="_blank">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />
 </a>
-
 <a href="[https://linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/ayub-ali-973b50206/)" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a>
-
 <a href="mailto:ayub15300@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
