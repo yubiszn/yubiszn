@@ -8,13 +8,6 @@ I enjoy working with full-stack technologies such as React, Node.js, Spring Boot
 
 Outside of school and work, I’m passionate about fitness, photography, and filmmaking. I also enjoy exploring new places and expressing myself through visual arts and storytelling
 
-🛠️ Projects I'm proud of:
-
-Paradise – A full-stack e-commerce platform with JWT authentication, Stripe payments, and real-time inventory updates.
-
-Yubi Movies – A Flutter-powered mobile app using the OMDb API with real-time search and a sleek, responsive UI.
-
-
 🧠 Technical Skills
 
 Languages: Java, JavaScript, Dart, SQL, HTML/CSS
